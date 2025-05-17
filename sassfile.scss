@@ -1,0 +1,9 @@
+$colorvar1 : black;
+$colorvar2 : white;
+body{
+    background-color:$colorvar1;
+    color:$colorvar2;
+}
+table{
+    border-color: $colorvar2;
+}
